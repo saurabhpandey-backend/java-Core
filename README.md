@@ -23,7 +23,7 @@ This repository contains Core Java concepts required for building strong backend
 
 ## 🛠️ Tools & Language
 - Java
-- IDE: IntelliJ IDEA / Eclipse
+- IDE: VS code
 - JDK 8+
 
 ## 🚀 Next Step
