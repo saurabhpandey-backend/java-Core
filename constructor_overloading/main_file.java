@@ -1,5 +1,6 @@
 package constructor_overloading;
-
+// overloded construtor are allow a class have multiple construtor with
+// different parameter list. Enable object to be initialized in verious way
 public class main_file {
     public static void main(String[] args) {
         user user1 = new user();
