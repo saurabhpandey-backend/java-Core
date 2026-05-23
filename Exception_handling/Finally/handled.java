@@ -1,4 +1,4 @@
-package Exception_handling.Finally;
+package Finally;
 
 public class handled {
         int a,b,c;

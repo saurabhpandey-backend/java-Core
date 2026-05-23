@@ -1,4 +1,4 @@
-package Exception_handling.try_catch;
+package try_catch;
 
 public class opretion {
 

@@ -1,4 +1,4 @@
-package Exception_handling.Finally;
+package Finally;
 
 public class without_handle_error {
     int a,b,c;

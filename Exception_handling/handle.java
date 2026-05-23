@@ -17,7 +17,7 @@
 //     }
 // }
 
-package Exception_handling;
+
 
 public class handle {
     public static void main(String[] args) {
